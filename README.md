@@ -1,3 +1,5 @@
-# Visualizador de PDF con HTML y CSS
+# PDF Viewer with HTML and CSS
 
-Archivos de tutorial de YouTube en el que enseño a añadir lector de PDF en una página web con una tag de HTML.
+Assets for a YouTube tutorial in which I showcase the process of incorporating a PDF viewer into a webpage using an HTML tag.
+
+Used for this video: [Tutorial Video](https://youtu.be/yMhSYnV80xc)
